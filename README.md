@@ -1,6 +1,9 @@
 # sdr_playground
 Tutoriales y cosas interesantes que hacer con un SDR
 
+# For english go to [this version](https://github.com/fede2cr/sdr_playground/blob/master/README.en.md)
+
+
 ## Introducción
 
 Aunque he trabajado y usado redes inalámbricas durante gran parte de mi vida profesional, nunca he podido aprender técnicamente como funcionan debido al alto costo de dispositivos como un espectrómetro, conocimiento y costo para desarrollar circuitería.
@@ -18,3 +21,5 @@ Sin necesidad de muchos pasos, vas a poder escuchar Radio FM en cuestión de seg
 2. Poniendo aviones en el mapa
 
 Los aviones comerciales y militares identifican su altura, orientación y coordenadas geográficas. Aprenda como escuchar los aviones que pasan a decenas de kilómetros para ponerlos en un mapa e indicar su posición en tiempo real.
+
+![Mapa con aviones](https://github.com/fede2cr/sdr_playground/raw/master/tutoriales/img/PiAware%20Skyview.png)
