@@ -29,3 +29,8 @@ Para simplificar la instalación vamos a utilizar una Raspberry Pi, y cargarle l
 4. Luego de que arranque, observe la consola de HDMI para encontrar el IP de la Pi
 5. Conéctese vía Web al IP de la Pi y observe las aeronaves
 6. De forma opcional puede configurar la cuenta de Flightaware para recibir atribución sobre las contribuciones de observaciones de aeronaves
+
+
+## Alternativa
+
+Si no desea dedicar una Raspberry Pi, sino solamente hacer una demostración rápida de las capacidades de ADS-B, una alternativa de software es [AirplaneJS](https://www.npmjs.com/package/airplanejs) el cual se basa en NodeJS y crea su propio servidor web.
